@@ -1,4 +1,4 @@
-#Multiple Multiple Disease Prediction Using ML
+Multiple Multiple Disease Prediction Using ML
 This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks &amp; the datasets are also provided in the respective folders. 
 
 app.py is the streamlit app code.
